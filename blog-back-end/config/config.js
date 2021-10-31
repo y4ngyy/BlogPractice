@@ -1,7 +1,7 @@
 var config  = {
     "postDir": ".test/post/",
     "author": "y4ngyy",
-    "password": "a66763065",
+    "password": "123456",
     "articleInfo": "articleData.json"
 };
 
